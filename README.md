@@ -1,7 +1,7 @@
 ## Welcome to my Github Page
 
 # Quickly Made Dinosaur Game (Unblocked)
-[Play here](https://github.com/jaydoncastro/quickly-made-dinosaur-game)
+[Play here](https://jaydoncastro.github.io/quickly-made-dinosaur-game/e)
 
 ### Markdown
 
